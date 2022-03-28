@@ -11,13 +11,11 @@
             "role": "lead"
         }
     ],
-    "version": "103",
-    "time": "2017-11-11",
     "require": {
         "php": ">=7.3",
-        "horde/mail": "103",
-        "horde/translation": "103",
-        "horde/util": "103"
+        "horde/mail": ">=106",
+        "horde/translation": ">=106",
+        "horde/util": ">=106"
     },
     "suggest": {
         "horde/mime": "^2.5",
